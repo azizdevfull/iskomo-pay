@@ -1,0 +1,3 @@
+```bash
+php index.php
+```
